@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "3B43A181-5473-4074-B4E3-BD137D23851D"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "55296F40-FEE2-47D2-A36C-5B1C47B456CF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "bforBank/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8F0D7275-4F1A-4DA5-BFE3-1D631B39EEE6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "bforBank/Scanner/View/CameraView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "setupVision()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8F0D7275-4F1A-4DA5-BFE3-1D631B39EEE6 - d8b9aa9fbfa0bee6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.VNRequest, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in bforBank.CameraView.Coordinator.setupVision() -&gt; ()"
+                  moduleName = "bforBank"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/inesbokri/Desktop/INES/Bfor/bforBank/bforBank/Scanner/View/CameraView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "1588">
+               </Location>
+               <Location
+                  uuid = "8F0D7275-4F1A-4DA5-BFE3-1D631B39EEE6 - d8b9aa9fbfa0be98"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.VNRequest, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in bforBank.CameraView.Coordinator.setupVision() -&gt; ()"
+                  moduleName = "bforBank"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/inesbokri/Desktop/INES/Bfor/bforBank/bforBank/Scanner/View/CameraView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "1252">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B5167EF0-5752-4CEB-B6C3-41B531BB0BA8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "bforBank/Scanner/View/CameraView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "setupVision()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B5167EF0-5752-4CEB-B6C3-41B531BB0BA8 - d8b9aa9fbfa0bf24"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.VNRequest, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in bforBank.CameraView.Coordinator.setupVision() -&gt; ()"
+                  moduleName = "bforBank"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/inesbokri/Desktop/INES/Bfor/bforBank/bforBank/Scanner/View/CameraView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "1852">
+               </Location>
+               <Location
+                  uuid = "B5167EF0-5752-4CEB-B6C3-41B531BB0BA8 - d8b9aa9fbfa0bf24"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.VNRequest, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in bforBank.CameraView.Coordinator.setupVision() -&gt; ()"
+                  moduleName = "bforBank"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/inesbokri/Desktop/INES/Bfor/bforBank/bforBank/Scanner/View/CameraView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "1636">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EB15C2DF-5CB0-479C-B017-B1070C04A592"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "bforBank/Scanner/View/CameraView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "setupVision()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EB15C2DF-5CB0-479C-B017-B1070C04A592 - bcb3d4c184d48518"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (__C.VNRequest, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in bforBank.CameraView.Coordinator.setupVision() -&gt; ()"
+                  moduleName = "bforBank"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/inesbokri/Desktop/INES/Bfor/bforBank/bforBank/Scanner/View/CameraView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "464">
+               </Location>
+               <Location
+                  uuid = "EB15C2DF-5CB0-479C-B017-B1070C04A592 - bcb3d4c184d48518"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (__C.VNRequest, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in bforBank.CameraView.Coordinator.setupVision() -&gt; ()"
+                  moduleName = "bforBank"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/inesbokri/Desktop/INES/Bfor/bforBank/bforBank/Scanner/View/CameraView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "560">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
